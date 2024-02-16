@@ -10,3 +10,6 @@ git push -u origin main
 git clone <public repo with readme.md you're practicing with>
 git remote set-url origin <new private repo url>
 git clone URL
+ssh://{user}@{host}:{port}/path/to/repo.git
+https://{host}:{port}/path/to/repo.git
+git clone <repository-url>
